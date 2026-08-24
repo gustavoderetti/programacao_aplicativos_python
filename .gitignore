@@ -1,0 +1,6 @@
+
+# Ambiente virtual
+.venv/
+
+# Configuração do PyCharm
+.idea/
