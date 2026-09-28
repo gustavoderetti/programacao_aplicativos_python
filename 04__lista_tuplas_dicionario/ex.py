@@ -1,4 +1,4 @@
-nomes=["ana", "carlos", "joao", "maria"]
+nomes =["ana", "carlos", "joao", "maria"]
 print(nomes)
 
 
